@@ -1,0 +1,7 @@
+2019-05-22 20:09:02,976  - ERROR :  'AutoAgent' object has no attribute 'key'
+2019-05-22 20:13:19,645  - ERROR :  'AutoAgent' object has no attribute 'key'
+2019-05-22 20:19:59,602  - ERROR :  HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/asset (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C3DE701630>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2019-05-23 17:19:47,269  - ERROR :  ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2019-05-23 17:21:23,780  - ERROR :  授权失败
+2019-05-23 19:10:28,990  - ERROR :  API授权失败
+2019-05-23 19:55:54,982  - ERROR :  API授权失败
